@@ -115,6 +115,22 @@ Example segments:
 
 ---
 
+## Visualizations
+
+### Elbow Method
+
+![Elbow](images/elbow_method.png)
+
+### Customer Segments
+
+![Clusters](images/cluster_plot.png)
+
+### Age Distribution
+
+![Age](images/age_distribution.png)
+
+---
+
 ## Business Insights
 
 Most clustering projects stop at visualization.  
