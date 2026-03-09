@@ -103,27 +103,38 @@ Example segments:
 
 ---
 
-# Key Insights
+## Business Insights (Middle+ Level)
 
-1. Spending behavior does not always correlate directly with income.
+Most clustering projects stop at visualization.  
+In this project I go one step further — translating clusters into **business actions**.
 
-2. Certain age groups demonstrate higher spending activity.
+After performing customer segmentation, each cluster is analyzed to understand:
 
-3. Distinct customer segments can be identified using clustering methods.
+- spending behavior
+- purchase frequency
+- product preferences
+- marketing potential
 
-4. High-income customers with low spending represent a potential growth opportunity.
+### Example Segment Interpretation
 
----
+| Segment | Description | Business Strategy |
+|-------|-------------|----------------|
+| High Value Customers | High spending and frequent purchases | Loyalty programs, VIP offers |
+| Potential Loyalists | Medium spending but growing activity | Targeted promotions, bundles |
+| Occasional Buyers | Low frequency and moderate spending | Retargeting campaigns |
+| At-Risk Customers | Previously active but declining | Win-back campaigns |
 
-# Business Recommendations
+### Why This Matters
 
-Based on the analysis:
+Data science is not only about models — it’s about **decision making**.
 
-- High income / low spending customers could be targeted with promotional campaigns.
-- Younger high-spending customers may benefit from loyalty programs.
-- Customer segmentation could support personalized marketing strategies.
+By translating clusters into business strategies, this project demonstrates:
 
----
+- analytical thinking
+- product mindset
+- ability to communicate results to stakeholders
+
+This approach is commonly expected from **Middle+ Data Scientists**.
 
 # Tools & Technologies
 
@@ -143,10 +154,12 @@ customer-segmentation-analysis
 │
 ├── data
 │ └── dataset.csv
+
 │
 ├── notebooks
 │ ├── eda.ipynb
 │ └── customer_segmentation.ipynb
+
 │
 ├── visualizations
 │ └── plots
