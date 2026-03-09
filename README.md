@@ -1,7 +1,7 @@
 # Customer Segmentation & Spending Behavior Analysis
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BuhaAutilla&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuhaAutilla&layout=compact)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![ML](https://img.shields.io/badge/MachineLearning-ScikitLearn-orange)
 
