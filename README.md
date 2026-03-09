@@ -115,7 +115,7 @@ Example segments:
 
 ---
 
-## Business Insights (Middle+ Level)
+## Business Insights
 
 Most clustering projects stop at visualization.  
 In this project I go one step further — translating clusters into **business actions**.
