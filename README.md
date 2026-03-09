@@ -151,17 +151,18 @@ Jupyter Notebook
 # Project Structure
 
 customer-segmentation-analysis
-│
+
 ├── data
+
 │ └── dataset.csv
 
-│
 ├── notebooks
 │ ├── eda.ipynb
+
 │ └── customer_segmentation.ipynb
 
-│
 ├── visualizations
+
 │ └── plots
 │
 └── README.md
