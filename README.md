@@ -1,4 +1,7 @@
 # Customer Segmentation & Spending Behavior Analysis
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![ML](https://img.shields.io/badge/MachineLearning-ScikitLearn-orange)
 
@@ -103,6 +106,17 @@ Example segments:
 
 ---
 
+## Cluster Profiling
+
+| Cluster | Income Level | Spending Behavior | Interpretation |
+|-------|-------------|-------------|-------------|
+| 0 | High | High | High Value Customers |
+| 1 | High | Low | Careful Spenders |
+| 2 | Low | High | Potential Loyalists |
+| 3 | Low | Low | Low Engagement |
+
+---
+
 ## Business Insights (Middle+ Level)
 
 Most clustering projects stop at visualization.  
@@ -147,19 +161,16 @@ Scikit-learn
 Jupyter Notebook  
 
 ---
+# Project Structure
 
-customer-segmentation-analysis
-│
-├── data
-│   └── dataset.csv
-│
-├── notebooks
-│   ├── eda.ipynb
-│   └── customer_segmentation.ipynb
-│
-├── visualizations
-│
-└── README.md
+data/
+  └── dataset.csv
+notebooks/
+  ├── eda.ipynb
+│ └── customer_segmentation.ipynb
+visualizations/
+  └── plots/
+README.md
 ---
 
 # Key Skills Demonstrated
